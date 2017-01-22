@@ -1,0 +1,10 @@
+Uuid: c199ec3330864d548ff7d6bf761960ba
+ExtensionType: 2
+Name: MessagePack
+ScreenVersion: 1.0
+SerialVersion: 0
+MinPlatformVersion: 0
+ProOnly: False
+Author: Yuji Matsunaga
+ShortDescription: Decode MessagePack encoded request/response to JSON & Encode JSON encoded request to MessagePack
+EntryPoint: BurpMessagePack.py
