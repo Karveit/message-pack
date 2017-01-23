@@ -6,5 +6,5 @@ SerialVersion: 0
 MinPlatformVersion: 0
 ProOnly: False
 Author: Yuji Matsunaga
-ShortDescription: Decode MessagePack encoded request/response to JSON & Encode JSON encoded request to MessagePack
+ShortDescription: Allows conversion of MessagePack messages to/from JSON format.
 EntryPoint: BurpMessagePack.py
