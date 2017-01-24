@@ -2,7 +2,7 @@ Uuid: c199ec3330864d548ff7d6bf761960ba
 ExtensionType: 2
 Name: MessagePack
 ScreenVersion: 1.0
-SerialVersion: 0
+SerialVersion: 1
 MinPlatformVersion: 0
 ProOnly: False
 Author: Yuji Matsunaga
