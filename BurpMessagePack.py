@@ -91,7 +91,7 @@ class MessageEditorTab( IMessageEditorTab, MpackJsonHelper ):
         return self._editor.getComponent()
 
     def isEnabled( self, content, isRequest ):
-        if content is None:
+        if content is None or len(content) == 0:
             return False
 
         info = self.analyzeMessage( content, isRequest )
