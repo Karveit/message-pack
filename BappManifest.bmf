@@ -1,6 +1,7 @@
 Uuid: c199ec3330864d548ff7d6bf761960ba
 ExtensionType: 2
 Name: MessagePack
+RepoName: message-pack
 ScreenVersion: 1.0
 SerialVersion: 2
 MinPlatformVersion: 0
