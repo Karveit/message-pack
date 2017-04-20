@@ -4,7 +4,7 @@ Name: MessagePack
 RepoName: message-pack
 ScreenVersion: 1.0
 SerialVersion: 2
-MinPlatformVersion: 0
+MinPlatformVersion: 2
 ProOnly: False
 Author: Yuji Matsunaga
 ShortDescription: Allows conversion of MessagePack messages to/from JSON format.
